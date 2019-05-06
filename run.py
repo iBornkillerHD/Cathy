@@ -1,2 +1,2 @@
 import os
-os.system(f'cathy chat-with-zach {os.getenv("BOT-TOKEN")}')
+os.system(f'cathy chat-with-zach , bot-spam{os.getenv("BOT-TOKEN")}')
